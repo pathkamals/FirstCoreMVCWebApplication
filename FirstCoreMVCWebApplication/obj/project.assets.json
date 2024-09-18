@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kamal\\.net Training\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication.csproj",
+      "projectUniqueName": "C:\\Kamal\\.net Training\\Code002\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication.csproj",
       "projectName": "FirstCoreMVCWebApplication",
-      "projectPath": "C:\\Kamal\\.net Training\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication.csproj",
+      "projectPath": "C:\\Kamal\\.net Training\\Code002\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication.csproj",
       "packagesPath": "C:\\Users\\pa_kamals\\.nuget\\packages\\",
-      "outputPath": "C:\\Kamal\\.net Training\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\obj\\",
+      "outputPath": "C:\\Kamal\\.net Training\\Code002\\FirstCoreMVCWebApplication\\FirstCoreMVCWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

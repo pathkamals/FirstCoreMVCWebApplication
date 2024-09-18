@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstCoreMVCWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a165d52a8a3bd62f531f85913871709f3827c2a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea714462855e97bd0ca70a41a9caf536b98036c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstCoreMVCWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstCoreMVCWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
